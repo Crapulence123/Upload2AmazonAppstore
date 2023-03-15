@@ -1,4 +1,4 @@
-### 发布到amazon appstore：
+### 提交apk到amazon appstore：
 步骤：  
 1.获取amazon auth token  
 2.获取edit id（若当前无edit或edit状态不为IN PROGRESS则新建edit）  

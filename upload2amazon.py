@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.INFO,
 import requests
 
 class Upload2Amazon:
-
+    # 此处ID为测试id非公司账号，实际使用时需要替换至可用的信息
     client_id = "amzn1.application-oa2-client.a638c480f88e476d90601bb5254773fe"
     client_secret = "275a15e85365a8a6b384832173a8ff5005337218c3f8647792212516cc82df35"
     app_id = "amzn1.devportal.mobileapp.703658a665104b40b1d88acacc842f74"
